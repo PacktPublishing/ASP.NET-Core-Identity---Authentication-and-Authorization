@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V18488?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Classifieds ASP.Net Core Identity Security
 
 Authorization, Authentication and User Management are mainstay features in real world applications. Identity Core is the flagship library packaged with ASP.NET Core projects to help us get the most security possible out of the box. Getting authentication and authorization done right in your website can help keep your users and their data safe from attacks. Added features such as Two and Multi Factor Authentication are relatively easy to plugin. This library can easily be extended to implement unique business rules to surround how users are treated.
